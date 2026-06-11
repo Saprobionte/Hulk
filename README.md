@@ -1,6 +1,6 @@
 Hulk.py
 -------
-Application graphique (GUI) de bioinformatique destinée au traitement de séquences nucléotidiques
+Application graphique de bioinformatique destinée au traitement de séquences nucléotidiques
 au format FASTA. Développée avec customtkinter pour l'interface et BioPython pour les opérations
 sur les séquences.
 
